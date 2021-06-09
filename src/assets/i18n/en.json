@@ -1,0 +1,6 @@
+{
+  "HOME": {
+    "WELCOME_TEXT": "Hi guies!",
+    "WELCOME_YOU": "Hi {{personName}}!"
+  }
+}
